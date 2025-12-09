@@ -1,5 +1,5 @@
 [
   {
-    "data": "https://github.com/Hawsi420/StoryTv/raw/refs/heads/main/story.tv.drama.reels.zip"
+    "data": "https://github.com/ITSXLUCKY/Stor/raw/refs/heads/main/data.zip"
   }
 ]
